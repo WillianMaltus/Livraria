@@ -1,0 +1,9 @@
+${AnsiColor.BLUE}.____    .__                           .__        
+${AnsiColor.BLUE}|    |   |__|__  ______________ _______|__|____   
+${AnsiColor.BLUE}|    |   |  \  \/ /\_  __ \__  \\_  __ \  \__  \  
+${AnsiColor.BLUE}|    |___|  |\   /  |  | \// __ \|  | \/  |/ __ \_
+${AnsiColor.BLUE}|_______ \__| \_/   |__|  (____  /__|  |__(____  /
+${AnsiColor.BLUE}        \/                     \/              \/ 
+
+${AnsiColor.BRIGHT_GREEN} Projeto exemplo de uma API REST com Spring Boot
+
