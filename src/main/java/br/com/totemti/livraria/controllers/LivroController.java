@@ -25,7 +25,7 @@ import org.springframework.web.util.UriComponentsBuilder;
 
 import br.com.totemti.livraria.controllers.dto.AutorDTO;
 import br.com.totemti.livraria.controllers.dto.LivroDTO;
-import br.com.totemti.livraria.controllers.dto.form.LivroFormDTO;
+import br.com.totemti.livraria.controllers.dto.LivroFormDTO;
 import br.com.totemti.livraria.models.Editora;
 import br.com.totemti.livraria.models.Livro;
 import br.com.totemti.livraria.services.AutorService;

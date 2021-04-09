@@ -1,4 +1,4 @@
-package br.com.totemti.livraria.controllers.dto.form;
+package br.com.totemti.livraria.controllers.dto;
 
 import java.util.List;
 

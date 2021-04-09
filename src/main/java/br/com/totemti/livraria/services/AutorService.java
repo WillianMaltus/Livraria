@@ -29,12 +29,4 @@ public class AutorService {
 				.orElseThrow(() -> new RegistroNaoEncontradoException("autor.naoEncontrado"));
 	}
 	
-	public Autor salvar(Autor autor){
-		return autorRepository.save(autor);
-	}
-	
-	public void excluir(Long id) {
-		autorRepository.deleteById(id);
-	}
-	
 }
